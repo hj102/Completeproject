@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+form{
+    font-weight: 600;
+    font-size: 18px;
+    background-color: #2d4b75;
+}
+h1{
+    background-color:#315d9a;
+}
+.container{
+    height: 45vw;
+    width: 100vw;
+    margin: 40px;
+    background-color: #2d4b75;
+    padding: 20px;
+    border: 2px;
+    border-radius: 10px;
+    
+}
+img{
+    height: 100%;
+}
+.title{
+    margin: 30px 0;
+    text-align: center;
+}
+.signup1{
+    object-fit: fill;
+}
+.signup_img{
+    object-fit: fill;
+}
+
+label{
+    margin: 10px;
+}
